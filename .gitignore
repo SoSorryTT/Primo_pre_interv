@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+*.js
+*.js.map
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
